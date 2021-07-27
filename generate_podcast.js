@@ -31,7 +31,8 @@ const podcast = new Podcast({
   itunesSummary: 'A collection of Dhamma talks from the foremost woman Dhamma teacher in modern Thailand.',
   pubDate: 'Tue, July 27 2021, 10:00:00 PDT',
   feedUrl: 'https://dhammacasts.github.io/unentangled-knowing/unentangled.xml',
-  feed_url: 'https://dhammacasts.github.io/unentangled-knowing/unentangled.xml'
+  feed_url: 'https://dhammacasts.github.io/unentangled-knowing/unentangled.xml',
+  itunesType: 'serial'
 })
 
 fs.readdir('./all_unentangled', (err, files) => {
@@ -47,7 +48,7 @@ fs.readdir('./all_unentangled', (err, files) => {
     return type === 'mp3'
   })
 
-  for (const file of mp3s) {
+  mp3s.forEach((file, index) => {
     const fullPath = './all_unentangled/' + file
 
     const data = NodeID3.read(fullPath)
@@ -78,9 +79,10 @@ fs.readdir('./all_unentangled', (err, files) => {
       date: 'Sun, November 6 2011, 16:20:00 PDT',
       itunesExplicit: false,
       itunesSummary: 'A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu',
-      itunesSubtitle: 'A dhamma talk'
+      itunesSubtitle: 'A dhamma talk',
+      itunesEpisode: index + 1
     })
-  }
+  })
 
   const xml = podcast.buildXml(true)
 
