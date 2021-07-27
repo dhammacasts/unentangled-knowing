@@ -58,6 +58,8 @@ fs.readdir('./all_unentangled', (err, files) => {
 
     const duration = getMp3Duration(buf)
 
+    const size = buf.length
+
     podcast.addItem({
       title: title,
       itunesTitle: title,
@@ -65,7 +67,10 @@ fs.readdir('./all_unentangled', (err, files) => {
       itunesAuthor: 'Upāsikā Kee Nanayon',
       url: 'https://www.dhammatalks.org/ebook_index.html#unentangledknowing',
       itunesDuration: Math.ceil(duration / 1000),
-      enclosure: { url: 'https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/' + encodeURIComponent(file) },
+      enclosure: {
+        url: 'https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/' + encodeURIComponent(file),
+        size: size
+      },
       itunesImage: 'https://www.dhammatalks.org/images/unentangled_thumb.jpg',
       date: 'Sun, November 6 2011, 16:20:00 PDT',
       itunesExplicit: false,
