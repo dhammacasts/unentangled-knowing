@@ -30,8 +30,8 @@ const podcast = new Podcast({
   itunesExplicit: false,
   itunesSummary: 'A collection of Dhamma talks from the foremost woman Dhamma teacher in modern Thailand.',
   pubDate: 'Tue, July 27 2021, 10:00:00 PDT',
-  feedUrl: 'https://raw.githubusercontent.com/dhammacasts/unentangled-knowing/main/unentangled.xml',
-  feed_url: 'https://raw.githubusercontent.com/dhammacasts/unentangled-knowing/main/unentangled.xml'
+  feedUrl: 'https://dhammacasts.github.io/unentangled-knowing/unentangled.xml',
+  feed_url: 'https://dhammacasts.github.io/unentangled-knowing/unentangled.xml'
 })
 
 fs.readdir('./all_unentangled', (err, files) => {
@@ -68,7 +68,7 @@ fs.readdir('./all_unentangled', (err, files) => {
       url: 'https://www.dhammatalks.org/ebook_index.html#unentangledknowing',
       itunesDuration: Math.ceil(duration / 1000),
       enclosure: {
-        url: 'https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/' + encodeURIComponent(file),
+        url: 'https://dhammacasts.github.io/unentangled-knowing/all_unentangled/' + encodeURIComponent(file),
         size: size
       },
       itunesImage: 'https://www.dhammatalks.org/images/unentangled_thumb.jpg',

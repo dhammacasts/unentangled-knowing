@@ -9,9 +9,9 @@
             <link></link>
         </image>
         <generator>Podcast for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 20:03:36 GMT</lastBuildDate>
-        <atom:link href="https://raw.githubusercontent.com/dhammacasts/unentangled-knowing/main/unentangled.xml" rel="self" type="application/rss+xml"/>
-        <author><![CDATA[Upasika Kee Nanayon]]></author>
+        <lastBuildDate>Tue, 27 Jul 2021 23:06:03 GMT</lastBuildDate>
+        <atom:link href="https://dhammacasts.github.io/unentangled-knowing/unentangled.xml" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[Upāsikā Kee Nanayon]]></author>
         <pubDate>Tue, 27 Jul 2021 17:00:00 GMT</pubDate>
         <copyright><![CDATA[Copyright (c) 2011 Thanissaro Bhikkhu]]></copyright>
         <language><![CDATA[en]]></language>
@@ -19,7 +19,7 @@
         <category><![CDATA[Meditation]]></category>
         <category><![CDATA[Spirituality]]></category>
         <category><![CDATA[Mental Health]]></category>
-        <itunes:author>Upasika Kee Nanayon</itunes:author>
+        <itunes:author>Upāsikā Kee Nanayon</itunes:author>
         <itunes:subtitle>The Teachings of a Thai Buddhist Lay Woman</itunes:subtitle>
         <itunes:summary>A collection of Dhamma talks from the foremost woman Dhamma teacher in modern Thailand.</itunes:summary>
         <itunes:owner>
@@ -36,12 +36,12 @@
             <title><![CDATA[The Practice in Brief]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/01_The%20Practice%20in%20Brief.mp3" length="3940770" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/01_The%20Practice%20in%20Brief.mp3" length="3940770" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:04:54</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -51,12 +51,12 @@
             <title><![CDATA[An Hour's Meditation]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/02_An%20Hour&apos;s%20Meditation.mp3" length="6687138" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/02_An%20Hour&apos;s%20Meditation.mp3" length="6687138" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:08:25</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -66,12 +66,12 @@
             <title><![CDATA[A Basic Order in Life]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/03_A%20Basic%20Order%20in%20Life.mp3" length="5343650" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/03_A%20Basic%20Order%20in%20Life.mp3" length="5343650" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:06:37</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -81,12 +81,12 @@
             <title><![CDATA[Continuous Practice]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/04_Continuous%20Practice.mp3" length="4518306" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/04_Continuous%20Practice.mp3" length="4518306" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:05:36</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -96,12 +96,12 @@
             <title><![CDATA[Every In-&-Out Breath]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/05_Every%20In-%26-Out%20Breath.mp3" length="1323426" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/05_Every%20In-%26-Out%20Breath.mp3" length="1323426" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:01:42</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -111,12 +111,12 @@
             <title><![CDATA[Taking a Stance]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/06%20_Taking%20a%20Stance.mp3" length="2812322" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/06%20_Taking%20a%20Stance.mp3" length="2812322" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:03:32</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -126,12 +126,12 @@
             <title><![CDATA[The Details of Pain]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/07_The%20Details%20of%20Pain.mp3" length="12003746" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/07_The%20Details%20of%20Pain.mp3" length="12003746" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:15:07</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -141,12 +141,12 @@
             <title><![CDATA[Awareness Right at Awareness]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/08_Awareness%20Right%20at%20Awareness.mp3" length="20808098" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/08_Awareness%20Right%20at%20Awareness.mp3" length="20808098" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:27:13</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -156,12 +156,12 @@
             <title><![CDATA[The Pure Present]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/09_The%20Pure%20Present.mp3" length="4336034" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/09_The%20Pure%20Present.mp3" length="4336034" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:05:37</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -171,12 +171,12 @@
             <title><![CDATA[The Deceits of Knowing]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/10_The%20Deceits%20of%20Knowing.mp3" length="10330530" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/10_The%20Deceits%20of%20Knowing.mp3" length="10330530" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:13:00</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -186,12 +186,12 @@
             <title><![CDATA[Sabbe Dhamma Anatta]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/11_Sabbe%20Dhamma%20Anatta.mp3" length="2578850" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/11_Sabbe%20Dhamma%20Anatta.mp3" length="2578850" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:03:24</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -201,12 +201,12 @@
             <title><![CDATA[Going Out Cold]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/12_Going%20Out%20Cold.mp3" length="5654946" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/12_Going%20Out%20Cold.mp3" length="5654946" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:07:02</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -216,12 +216,12 @@
             <title><![CDATA[Reading the Heart]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/13_Reading%20the%20Heart.mp3" length="1513890" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/13_Reading%20the%20Heart.mp3" length="1513890" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:02:00</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -231,12 +231,12 @@
             <title><![CDATA[Breath Meditation Condensed]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/14_Breath%20Meditation%20Condensed.mp3" length="23986594" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/14_Breath%20Meditation%20Condensed.mp3" length="23986594" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:30:45</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -246,12 +246,12 @@
             <title><![CDATA[Mindfulness Like the Pilings of a Dam]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/15_Mindfulness%20Like%20the%20Pilings%20of%20a%20Dam.mp3" length="20359586" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/15_Mindfulness%20Like%20the%20Pilings%20of%20a%20Dam.mp3" length="20359586" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:25:50</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -261,12 +261,12 @@
             <title><![CDATA[The Battle Within]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/16_The%20Battle%20Within.mp3" length="23861666" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/16_The%20Battle%20Within.mp3" length="23861666" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:31:13</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -276,12 +276,12 @@
             <title><![CDATA[Stop, Look & Let Go]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/17_Stop%2C%20Look%20%26%20Let%20Go.mp3" length="22286754" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/17_Stop%2C%20Look%20%26%20Let%20Go.mp3" length="22286754" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:29:23</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -291,12 +291,12 @@
             <title><![CDATA[All Things Are Unworthy of Attachment]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/18_All%20Things%20Are%20Unworthy%20of%20Attachment.mp3" length="29837730" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/18_All%20Things%20Are%20Unworthy%20of%20Attachment.mp3" length="29837730" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:40:59</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -306,12 +306,12 @@
             <title><![CDATA[Simply Stop Right Here]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/19_Simply%20Stop%20Right%20Here.mp3" length="36131234" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/19_Simply%20Stop%20Right%20Here.mp3" length="36131234" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:47:24</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -321,12 +321,12 @@
             <title><![CDATA[A Good Dose of Dhamma]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/20_%20A%20Good%20Dose%20of%20Dhamma.mp3" length="50407842" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/20_%20A%20Good%20Dose%20of%20Dhamma.mp3" length="50407842" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:52:30</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -336,12 +336,12 @@
             <title><![CDATA[Discernment vs. Self-deception]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/21_Discernment%20vs.%20Self-deception.mp3" length="10680738" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/21_Discernment%20vs.%20Self-deception.mp3" length="10680738" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:13:06</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -351,12 +351,12 @@
             <title><![CDATA[A Difference in the Knowing]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/22_A%20Difference%20in%20the%20Knowing.mp3" length="6201762" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/22_A%20Difference%20in%20the%20Knowing.mp3" length="6201762" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:07:54</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -366,12 +366,12 @@
             <title><![CDATA[The Balanced Way]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/23_The%20Balanced%20Way.mp3" length="2634146" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/23_The%20Balanced%20Way.mp3" length="2634146" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:03:10</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -381,12 +381,12 @@
             <title><![CDATA[The Uses of Equanimity]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/24_The%20Uses%20of%20Equanimity.mp3" length="4669858" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/24_The%20Uses%20of%20Equanimity.mp3" length="4669858" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:05:46</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -396,12 +396,12 @@
             <title><![CDATA[A Glob of Tar]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/25_A%20Glob%20of%20Tar.mp3" length="7262626" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/25_A%20Glob%20of%20Tar.mp3" length="7262626" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:08:46</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -411,12 +411,12 @@
             <title><![CDATA[When Conventional Truths Collapse]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/26_When%20Conventional%20Truths%20Collapse.mp3" length="11530658" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/26_When%20Conventional%20Truths%20Collapse.mp3" length="11530658" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:14:46</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -426,12 +426,12 @@
             <title><![CDATA[The Intricacies of Ignorance]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/27_The%20Intricacies%20of%20Ignorance.mp3" length="3234210" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/27_The%20Intricacies%20of%20Ignorance.mp3" length="3234210" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:04:07</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -441,12 +441,12 @@
             <title><![CDATA[Emptiness vs. the Void]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/28_Emptiness%20vs.%20the%20Void.mp3" length="3477922" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/28_Emptiness%20vs.%20the%20Void.mp3" length="3477922" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:04:38</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
@@ -456,12 +456,12 @@
             <title><![CDATA[Opening the Way in the Heart]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
-            <dc:creator><![CDATA[Upasika Kee Nanayon]]></dc:creator>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/29_Opening%20the%20Way%20in%20the%20Heart.mp3" length="4108706" type="audio/mpeg"/>
-            <itunes:author>Upasika Kee Nanayon</itunes:author>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/29_Opening%20the%20Way%20in%20the%20Heart.mp3" length="4108706" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
-            <itunes:summary>A talk by Upasika Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>00:05:23</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
