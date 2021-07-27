@@ -9,7 +9,7 @@
             <link></link>
         </image>
         <generator>Podcast for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 23:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 23:12:01 GMT</lastBuildDate>
         <atom:link href="https://dhammacasts.github.io/unentangled-knowing/unentangled.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Upāsikā Kee Nanayon]]></author>
         <pubDate>Tue, 27 Jul 2021 17:00:00 GMT</pubDate>
@@ -53,7 +53,7 @@
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
             <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
             <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
-            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/02_An%20Hour&apos;s%20Meditation.mp3" length="6687138" type="audio/mpeg"/>
+            <enclosure url="https://dhammacasts.github.io/unentangled-knowing/all_unentangled/02_An%20Hours%20Meditation.mp3" length="6687138" type="audio/mpeg"/>
             <itunes:author>Upāsikā Kee Nanayon</itunes:author>
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>

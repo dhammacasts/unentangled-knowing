@@ -68,7 +68,7 @@ fs.readdir('./all_unentangled', (err, files) => {
       url: 'https://www.dhammatalks.org/ebook_index.html#unentangledknowing',
       itunesDuration: Math.ceil(duration / 1000),
       enclosure: {
-        url: 'https://dhammacasts.github.io/unentangled-knowing/all_unentangled/' + encodeURIComponent(file),
+        url: 'https://dhammacasts.github.io/unentangled-knowing/all_unentangled/' + encodeURIComponent(file.replace("'", '')),
         size: size
       },
       itunesImage: 'https://www.dhammatalks.org/images/unentangled_thumb.jpg',
