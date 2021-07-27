@@ -60,15 +60,18 @@ fs.readdir('./all_unentangled', (err, files) => {
 
     const size = buf.length
 
+    const episodeUrl = 'https://dhammacasts.github.io/unentangled-knowing/all_unentangled/' + encodeURIComponent(file.replace("'", ''))
+
     podcast.addItem({
       title: title,
       itunesTitle: title,
       author: 'Upāsikā Kee Nanayon',
       itunesAuthor: 'Upāsikā Kee Nanayon',
       url: 'https://www.dhammatalks.org/ebook_index.html#unentangledknowing',
+      guid: episodeUrl,
       itunesDuration: Math.ceil(duration / 1000),
       enclosure: {
-        url: 'https://dhammacasts.github.io/unentangled-knowing/all_unentangled/' + encodeURIComponent(file),
+        url: episodeUrl,
         size: size
       },
       itunesImage: 'https://www.dhammatalks.org/images/unentangled_thumb.jpg',
