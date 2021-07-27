@@ -40,7 +40,12 @@ fs.readdir('./all_unentangled', (err, files) => {
     return
   }
 
-  const mp3s = files.filter(filename => filename.split('.')[1] === 'mp3')
+  const mp3s = files.filter(filename => {
+    const components = filename.split('.')
+    const type = components[components.length - 1]
+
+    return type === 'mp3'
+  })
 
   for (const file of mp3s) {
     const fullPath = './all_unentangled/' + file

@@ -9,7 +9,7 @@
             <link></link>
         </image>
         <generator>Podcast for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 17:55:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 18:58:14 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/dhammacasts/unentangled-knowing/main/unentangled.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Upāsikā Kee Nanayon]]></author>
         <pubDate>Tue, 27 Jul 2021 17:00:00 GMT</pubDate>
@@ -333,6 +333,21 @@
             <itunes:title>A Good Dose of Dhamma</itunes:title>
         </item>
         <item>
+            <title><![CDATA[Discernment vs. Self-deception]]></title>
+            <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
+            <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
+            <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
+            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/21_Discernment%20vs.%20Self-deception.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
+            <itunes:subtitle>A dhamma talk</itunes:subtitle>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>00:13:06</itunes:duration>
+            <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
+            <itunes:title>Discernment vs. Self-deception</itunes:title>
+        </item>
+        <item>
             <title><![CDATA[A Difference in the Knowing]]></title>
             <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
             <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
@@ -421,6 +436,21 @@
             <itunes:duration>00:04:07</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>The Intricacies of Ignorance</itunes:title>
+        </item>
+        <item>
+            <title><![CDATA[Emptiness vs. the Void]]></title>
+            <link>https://www.dhammatalks.org/ebook_index.html#unentangledknowing</link>
+            <guid isPermaLink="true">https://www.dhammatalks.org/ebook_index.html#unentangledknowing</guid>
+            <dc:creator><![CDATA[Upāsikā Kee Nanayon]]></dc:creator>
+            <pubDate>Sun, 06 Nov 2011 23:20:00 GMT</pubDate>
+            <enclosure url="https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/28_Emptiness%20vs.%20the%20Void.mp3" length="0" type="audio/mpeg"/>
+            <itunes:author>Upāsikā Kee Nanayon</itunes:author>
+            <itunes:subtitle>A dhamma talk</itunes:subtitle>
+            <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>00:04:38</itunes:duration>
+            <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
+            <itunes:title>Emptiness vs. the Void</itunes:title>
         </item>
         <item>
             <title><![CDATA[Opening the Way in the Heart]]></title>
