@@ -9,7 +9,7 @@
             <link></link>
         </image>
         <generator>Podcast for Node</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 17:52:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 17:55:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/dhammacasts/unentangled-knowing/main/unentangled.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Upāsikā Kee Nanayon]]></author>
         <pubDate>Tue, 27 Jul 2021 17:00:00 GMT</pubDate>
@@ -43,7 +43,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>81:24:28</itunes:duration>
+            <itunes:duration>00:04:54</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>The Practice in Brief</itunes:title>
         </item>
@@ -58,7 +58,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>40:04:28</itunes:duration>
+            <itunes:duration>00:08:25</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>An Hour&apos;s Meditation</itunes:title>
         </item>
@@ -73,7 +73,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>10:08:33</itunes:duration>
+            <itunes:duration>00:06:37</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>A Basic Order in Life</itunes:title>
         </item>
@@ -88,7 +88,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>93:18:29</itunes:duration>
+            <itunes:duration>00:05:36</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>Continuous Practice</itunes:title>
         </item>
@@ -103,7 +103,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>28:04:28</itunes:duration>
+            <itunes:duration>00:01:42</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>Every In-&amp;-Out Breath</itunes:title>
         </item>
@@ -118,7 +118,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>58:37:49</itunes:duration>
+            <itunes:duration>00:03:32</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>Taking a Stance</itunes:title>
         </item>
@@ -133,7 +133,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>51:40:57</itunes:duration>
+            <itunes:duration>00:15:07</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>The Details of Pain</itunes:title>
         </item>
@@ -148,7 +148,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>53:20:26</itunes:duration>
+            <itunes:duration>00:27:13</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>Awareness Right at Awareness</itunes:title>
         </item>
@@ -163,7 +163,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>93:26:45</itunes:duration>
+            <itunes:duration>00:05:37</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>The Pure Present</itunes:title>
         </item>
@@ -178,7 +178,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>16:39:50</itunes:duration>
+            <itunes:duration>00:13:00</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>The Deceits of Knowing</itunes:title>
         </item>
@@ -193,7 +193,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>56:24:36</itunes:duration>
+            <itunes:duration>00:03:24</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>Sabbe Dhamma Anatta</itunes:title>
         </item>
@@ -208,7 +208,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>16:57:48</itunes:duration>
+            <itunes:duration>00:07:02</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>Going Out Cold</itunes:title>
         </item>
@@ -223,7 +223,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>33:04:26</itunes:duration>
+            <itunes:duration>00:02:00</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>Reading the Heart</itunes:title>
         </item>
@@ -238,7 +238,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>12:14:22</itunes:duration>
+            <itunes:duration>00:30:45</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>Breath Meditation Condensed</itunes:title>
         </item>
@@ -253,7 +253,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>30:32:56</itunes:duration>
+            <itunes:duration>00:25:50</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>Mindfulness Like the Pilings of a Dam</itunes:title>
         </item>
@@ -268,7 +268,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>20:11:32</itunes:duration>
+            <itunes:duration>00:31:13</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>The Battle Within</itunes:title>
         </item>
@@ -283,7 +283,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>89:27:44</itunes:duration>
+            <itunes:duration>00:29:23</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>Stop, Look &amp; Let Go</itunes:title>
         </item>
@@ -298,7 +298,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>82:47:50</itunes:duration>
+            <itunes:duration>00:40:59</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>All Things Are Unworthy of Attachment</itunes:title>
         </item>
@@ -313,7 +313,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>89:49:10</itunes:duration>
+            <itunes:duration>00:47:24</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>Simply Stop Right Here</itunes:title>
         </item>
@@ -328,7 +328,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>74:46:58</itunes:duration>
+            <itunes:duration>00:52:30</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>A Good Dose of Dhamma</itunes:title>
         </item>
@@ -343,7 +343,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>31:24:38</itunes:duration>
+            <itunes:duration>00:07:54</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>A Difference in the Knowing</itunes:title>
         </item>
@@ -358,7 +358,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>52:31:14</itunes:duration>
+            <itunes:duration>00:03:10</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>The Balanced Way</itunes:title>
         </item>
@@ -373,7 +373,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>95:51:18</itunes:duration>
+            <itunes:duration>00:05:46</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>The Uses of Equanimity</itunes:title>
         </item>
@@ -388,7 +388,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>45:51:01</itunes:duration>
+            <itunes:duration>00:08:46</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>A Glob of Tar</itunes:title>
         </item>
@@ -403,7 +403,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>45:50:55</itunes:duration>
+            <itunes:duration>00:14:46</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>When Conventional Truths Collapse</itunes:title>
         </item>
@@ -418,7 +418,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>68:21:13</itunes:duration>
+            <itunes:duration>00:04:07</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>The Intricacies of Ignorance</itunes:title>
         </item>
@@ -433,7 +433,7 @@
             <itunes:subtitle>A dhamma talk</itunes:subtitle>
             <itunes:summary>A talk by Upāsikā Kee Nanayon, translated by Thanissaro Bhikkhu</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>89:27:44</itunes:duration>
+            <itunes:duration>00:05:23</itunes:duration>
             <itunes:image href="https://www.dhammatalks.org/images/unentangled_thumb.jpg"/>
             <itunes:title>Opening the Way in the Heart</itunes:title>
         </item>

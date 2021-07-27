@@ -59,7 +59,7 @@ fs.readdir('./all_unentangled', (err, files) => {
       author: 'Upāsikā Kee Nanayon',
       itunesAuthor: 'Upāsikā Kee Nanayon',
       url: 'https://www.dhammatalks.org/ebook_index.html#unentangledknowing',
-      itunesDuration: duration,
+      itunesDuration: Math.ceil(duration / 1000),
       enclosure: { url: 'https://github.com/dhammacasts/unentangled-knowing/raw/main/all_unentangled/' + encodeURIComponent(file) },
       itunesImage: 'https://www.dhammatalks.org/images/unentangled_thumb.jpg',
       date: 'Sun, November 6 2011, 16:20:00 PDT',
